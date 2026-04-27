@@ -1,2 +1,3 @@
-# cron-monitor
-Cron Monitor is a micro-SaaS designed for Vercel users. It provides an effortless way to monitor you
+# Cron Monitor
+
+Simple Vercel Cron Job monitoring that sends email/Slack alerts on failure or success. Stay on top of your scheduled tasks without constant manual checks.
